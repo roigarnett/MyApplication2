@@ -112,5 +112,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private void NoamFunk(){
         
     }
+
+    private void PlsWork(){
+
+    }
 }
 
