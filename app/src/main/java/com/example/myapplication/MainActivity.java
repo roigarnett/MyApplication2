@@ -104,4 +104,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             myLocation.set(location);
         }
     }
+
+    private void garnettFunc(){
+        
+    }
 }
+
