@@ -108,5 +108,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private void garnettFunc(){
         int Shnits = 1;
     }
+
+    private void NoamFunk(){
+        
+    }
 }
 
